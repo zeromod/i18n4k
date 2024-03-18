@@ -1,0 +1,3 @@
+= I18n4k - Documentation
+
+* xref:formatter/index.adoc[Formatter]

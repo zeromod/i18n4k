@@ -1,0 +1,14 @@
+Back to xref:../index.adoc[Index]
+
+'''
+
+== Formatters
+
+* xref:general.adoc[General]
+* xref:general.adoc[Numbers]
+
+
+'''
+
+Back to xref:../index.adoc[Index]
+

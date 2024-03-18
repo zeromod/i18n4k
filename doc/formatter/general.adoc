@@ -1,0 +1,21 @@
+Back to xref:index.adoc[Formatters]
+
+'''
+
+[[formatter_-general]]
+== General
+
+Message parameters can be formatted using several formatters.
+To use a formatter, the parameter in curly braces is extended with additional parameters.
+The parameter options are all in the following style:
+
+====
+{PARAMETER_NAME, FORMAT_TYPE, FORMAT_STYLE}
+====
+* `PARAMETER_NAME`: Name of the parameter
+* `FORMAT_TYPE`: format type, in general a single word
+* `FORMAT_STYLE`: A list of whitespace seperated options for the formatter
+
+'''
+
+Back to xref:index.adoc[Formatters]
