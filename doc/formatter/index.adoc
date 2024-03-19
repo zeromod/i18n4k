@@ -5,7 +5,8 @@ Back to xref:../index.adoc[Index]
 == Formatters
 
 * xref:general.adoc[General]
-* xref:general.adoc[Numbers]
+* xref:numbers.adoc[Numbers]
+* xref:numbers.adoc[Transforming]
 
 
 '''

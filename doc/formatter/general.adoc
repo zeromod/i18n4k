@@ -14,7 +14,18 @@ The parameter options are all in the following style:
 ====
 * `PARAMETER_NAME`: Name of the parameter
 * `FORMAT_TYPE`: format type, in general a single word
-* `FORMAT_STYLE`: A list of whitespace seperated options for the formatter
+* `FORMAT_STYLE`: A list of whitespace seperated options for the formatter. +
+This can be optional depending on the `FORMAT_TYPE`. +
+The list of options can also contain message texts with nested parameters.
+Message text must be enclosed in curly braces.
+
+E.g.:
+
+
+* `{0, number}`
+* `{0, number, %.2}`
+* `{0, select, 1 {value 1} 2 {value 2} ohter {Other value: {0}} }`
+
 
 '''
 
